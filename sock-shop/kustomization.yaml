@@ -1,4 +1,8 @@
 resources:
+- base/catalogue-db-dep.yaml
+- base/catalogue-db-svc.yaml
+- base/catalogue-dep.yaml
+- base/catalogue-svc.yaml
 - base/carts-db-dep.yaml
 - base/carts-db-svc.yaml
 - base/carts-dep.yaml
